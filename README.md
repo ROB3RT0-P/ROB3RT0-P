@@ -14,8 +14,8 @@ FRONTEND API [ https://github.com/ROB3RT0-P/Frontend-API ]
 ![API](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/beceaaf7-383c-44e0-b446-612c445edcb7)
 
 COMPILERS x86 [ https://github.com/ROB3RT0-P/Compilers-x86 ]
-<img width="1280" alt="compilers" src="https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/bc3e43c1-6729-450d-a132-33028e0320b6">
+<img width="1000" alt="compilers" src="https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/bc3e43c1-6729-450d-a132-33028e0320b6">
 
 MACHINE LEARNING [ https://github.com/ROB3RT0-P/AI_Machine-Learning ]
-<img width="1280" alt="matlab" src="https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/bacfb3dc-3f1f-43f2-aa34-9e31404bba6f">
+<img width="1000" alt="matlab" src="https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/bacfb3dc-3f1f-43f2-aa34-9e31404bba6f">
 
