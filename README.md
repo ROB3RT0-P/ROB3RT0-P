@@ -2,6 +2,7 @@
 SHOOTEMUP [C++] [ https://github.com/ROB3RT0-P/SHMUP ]
 
 D3D RENDER [ C++ ] [ https://github.com/ROB3RT0-P/D3D_Render ]
+![BeesGif](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/72226889-c989-4bba-8a57-5cc09443f4df)
 
 PONG [C++] [ https://github.com/ROB3RT0-P/Pong ]
 ![pong](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/b96f08a3-e3d6-46d2-9385-5fc24aa2b1e3)
