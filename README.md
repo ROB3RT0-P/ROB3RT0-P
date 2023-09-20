@@ -1,4 +1,4 @@
-SHOOTEMUP [C++] [ https://github.com/ROB3RT0-P/SHMUP ]
+SDL2 SHOOTEMUP [C++] [ https://github.com/ROB3RT0-P/SHMUP ]
 
 D3D RENDER [ C++ ] [ https://github.com/ROB3RT0-P/D3D_Render ]
 ![Bees](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/b0388067-c304-4867-9b77-04f175e83149)
