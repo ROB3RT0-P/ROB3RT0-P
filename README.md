@@ -4,8 +4,6 @@ A doom-style first person shooter written using OpenGL.
 SPACE - SDL2 [C++] [ https://github.com/ROB3RT0-P/Space ]
 ![space](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/6749be52-2c74-488d-9be6-e1700910e1ac)
 
-GENERAL CODE - [C++] [ https://github.com/ROB3RT0-P/General_CPP ]
-
 SHOOTEMUP - SDL2 [C++] [ https://github.com/ROB3RT0-P/SHMUP ]
 ![SHMUP](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/fc8b1648-a01b-424a-93c9-97a06056e887)
 
@@ -20,10 +18,3 @@ VERLET INTEGRATION - UNITY [C#] [ https://github.com/ROB3RT0-P/Verlet-Integratio
 
 FF RUN - UNITY [C#] [ https://github.com/ROB3RT0-P/FFGame ]
 ![FFGAME](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/a2c96a53-3639-4b72-a0c4-c8e7ce58e30b)
-
-FRONTEND API [JS] [ https://github.com/ROB3RT0-P/Frontend-API ]
-![API](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/beceaaf7-383c-44e0-b446-612c445edcb7)
-
-COMPILERS x86 [PYTHON] [ https://github.com/ROB3RT0-P/Compilers-x86 ]
-
-MACHINE LEARNING [MATLAB] [ https://github.com/ROB3RT0-P/AI_Machine-Learning ]
