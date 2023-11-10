@@ -14,7 +14,6 @@ PONG - SFML [C++] [ https://github.com/ROB3RT0-P/Pong ]
 ![pong](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/b96f08a3-e3d6-46d2-9385-5fc24aa2b1e3)
 
 VERLET INTEGRATION - UNITY [C#] [ https://github.com/ROB3RT0-P/Verlet-Integration ]
-DEMO - [ https://youtu.be/Q5s5m-9YsEc ]
 ![Verlet](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/cf3bff0b-9dd2-49cd-b3ff-1db6690146e8)
 
 FF RUN - UNITY [C#] [ https://github.com/ROB3RT0-P/FFGame ]
