@@ -1,6 +1,6 @@
 RED FPS - OpenGL [C++] [ https://github.com/ROB3RT0-P/Red_FPS ]
 A doom-style first person shooter written using OpenGL.
-**Note:** I'm still working on this.
+**Note:** Preliminary stages - I'm still actively working on this.
 
 SHOOTEMUP - SDL2 [C++] [ https://github.com/ROB3RT0-P/SHMUP ]
 **Note:** I haven't cleaned up this code yet as there are features I'm in the process of implementing.
