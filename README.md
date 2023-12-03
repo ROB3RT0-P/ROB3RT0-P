@@ -12,7 +12,7 @@ A shmup-style game written using SDL libraries. <br />
 ## BEE RENDER - DIRECTX 3D [ C++ ]
 [ https://github.com/ROB3RT0-P/D3D_Render ] <br />
 A simulation with bees, wasps and flowers, where the bees and wasps interact <br />
-with eachother while seeking the flower with the most nectar. <br />
+with each other while seeking the flower with the most nectar. <br />
 ![Bees](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/b0388067-c304-4867-9b77-04f175e83149)
 
 ## VERLET INTEGRATION - UNITY [C#] 
