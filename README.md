@@ -3,7 +3,7 @@ A doom-style first person shooter written using OpenGL.
 **Note:** Preliminary stages - I'm still actively working on this.
 
 SHOOTEMUP - SDL2 [C++] [ https://github.com/ROB3RT0-P/SHMUP ]
-**Note:** I haven't cleaned up this code yet as there are features I'm in the process of implementing.
+**Note:** Almost finished.
 ![SHMUP](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/fc8b1648-a01b-424a-93c9-97a06056e887)
 
 BEE RENDER - DIRECTX 3D [ C++ ] [ https://github.com/ROB3RT0-P/D3D_Render ]
