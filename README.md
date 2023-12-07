@@ -6,7 +6,7 @@ A doom-style first person shooter written using OpenGL. <br />
 ## GALACTIC HAVOC - SDL2 [C++] 
 [ https://github.com/ROB3RT0-P/SHMUP ] <br />
 A shmup-style game written using SDL libraries. <br />
-![shmupGif](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/5c004a5a-c34d-4a12-95ed-efee117fc497)
+![shmupSmall](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/3d599818-185c-414f-adc8-acb038a95a92)
 
 ## BEE RENDER - DIRECTX 3D [ C++ ]
 [ https://github.com/ROB3RT0-P/D3D_Render ] <br />
