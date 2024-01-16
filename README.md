@@ -1,6 +1,7 @@
 ## RED - OpenGL [C++] 
 [ https://github.com/ROB3RT0-P/Red_FPS ] <br />
 A doom-style first person shooter written using OpenGL. <br />
+**NOTE: Preliminary Stages**
 
 ## GALACTIC HAVOC - SDL2 [C++] 
 [ https://github.com/ROB3RT0-P/SHMUP ] <br />
