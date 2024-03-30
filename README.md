@@ -4,8 +4,7 @@ Algorithms, Data Structures, String Manipulation, etc...
 
 ## RED - OpenGL [C++] 
 [ https://github.com/ROB3RT0-P/Red_FPS ] <br />
-A doom-style first person shooter written using OpenGL. <br />
-**NOTE: Preliminary Stages**
+A 3D game rendered using GLFW and GLEW. <br />
 
 ## GALACTIC HAVOC - SDL2 [C++] 
 [ https://github.com/ROB3RT0-P/SHMUP ] <br />
