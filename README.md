@@ -2,6 +2,11 @@
 [ https://github.com/ROB3RT0-P/General_CPP ] <br />
 Algorithms, Data Structures, String Manipulation, etc...
 
+## Peril's Passage - SDL2 [C++]
+[https://github.com/ROB3RT0-P/T.A.G] <br />
+A text adventure game written using SDL libraries. <br />
+![tag1](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/85da146d-8505-4b21-9cd6-23588bfade8d)
+
 ## RED - OpenGL [C++] 
 [ https://github.com/ROB3RT0-P/Red_FPS ] <br />
 A 3D game rendered using GLFW and GLEW. <br />
