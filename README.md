@@ -5,7 +5,7 @@ Algorithms, Data Structures, String Manipulation, etc...
 ## Ex Tenebris - SDL2 [C++]
 [https://github.com/ROB3RT0-P/Ex_Tenebris] <br />
 Written using SDL libraries. <br />
-![exTen](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/2f3b9bd3-5ca1-46e9-8419-b9d3abc07d82)
+![exTen1](https://github.com/ROB3RT0-P/ROB3RT0-P/assets/58118390/d44a25aa-dc6a-4efe-9df6-03e23e2587ec)
 
 ## Peril's Passage - SDL2 [C++]
 [https://github.com/ROB3RT0-P/T.A.G] <br />
